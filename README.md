@@ -2,7 +2,7 @@
 
 # TOPSIS
 
-Submitted By: **Priyanka 101803006**
+Submitted By: **Yash Kumar Tewatia - 101803064**
 Type: **Package**
 Title: **TOPSIS method for multiple-criteria decision making (MCDM)**
 Version: **1.0.0**

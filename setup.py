@@ -12,7 +12,7 @@ setuptools.setup(
     description="A package -> Calculates Topsis Score and Rank them accordingly",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/Tewatia5355/Topsis_tewatia",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

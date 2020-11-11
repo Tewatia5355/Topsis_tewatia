@@ -1,8 +1,0 @@
-README.md
-setup.py
-Topsis_Tewatia/__init__.py
-Topsis_Tewatia/__main__.py
-Topsis_Tewatia.egg-info/PKG-INFO
-Topsis_Tewatia.egg-info/SOURCES.txt
-Topsis_Tewatia.egg-info/dependency_links.txt
-Topsis_Tewatia.egg-info/top_level.txt

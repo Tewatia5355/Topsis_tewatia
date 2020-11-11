@@ -2,14 +2,21 @@
 
 # TOPSIS
 
-Submitted By: **Yash Kumar Tewatia - 101803064**
-Type: **Package**
-Title: **TOPSIS method for multiple-criteria decision making (MCDM)**
-Version: **1.0.0**
-Date: **2020-11-11**
-Author: **Yash Kumar Tewatia**
-Maintainer: **Yash Kumar Tewatia <yashbsr3@gmail.com>**
-Description: **Evaluation of alternatives based on multiple criteria using TOPSIS method.**
+Submitted By: **Yash Kumar Tewatia - 101803064**.
+
+Type: **Package**.
+
+Title: **TOPSIS method for multiple-criteria decision making (MCDM)**.
+
+Version: **1.0.0**.
+
+Date: **2020-11-11**.
+
+Author: **Yash Kumar Tewatia**.
+
+Maintainer: **Yash Kumar Tewatia <yashbsr3@gmail.com>**.
+
+Description: **Evaluation of alternatives based on multiple criteria using TOPSIS method.**.
 
 ---
 

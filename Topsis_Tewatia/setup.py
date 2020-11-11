@@ -9,7 +9,7 @@ setuptools.setup(
     version="1.0.0",
     author="Yash Kumar Tewatia",
     author_email="yashbsr3@gmail.com",
-    description="A package that Calculates Topsis Score and Rank them accordingly",
+    description="A package -> Calculates Topsis Score and Rank them accordingly",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="",

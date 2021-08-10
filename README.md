@@ -32,7 +32,7 @@ and greatest distance from the negative-ideal solution.
 ## How to install this package:
 
 ```
->> pip install Topsis_Tewatia
+>> pip install TOPSIS-Yash-101803064
 ```
 
 ### In Command Prompt
